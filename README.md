@@ -14,9 +14,16 @@ Dans le cadre de notre cours de sécurité informatique, il nous a été demand�
 - Le dechiffrement (Question 3)  <br>
 
 Voici les différentes captures du fonctionnement de notre application : <br>
+QUESTION I  <br>
 ![Alt text](https://github.com/leonardsadiki/tp-securite-L2Genie/blob/main/capture_question1.PNG)
 ![Alt text](https://github.com/leonardsadiki/tp-securite-L2Genie/blob/main/capture_reponse1.PNG)
+<br>
+<br>
+QUESTION II <br>
 ![alt text](https://github.com/leonardsadiki/tp-securite-L2Genie/blob/main/capture_question2.PNG)
 ![alt text](https://github.com/leonardsadiki/tp-securite-L2Genie/blob/main/capture_reponse2.PNG)
+<br>
+<br>
+QUESTION III <br>
 ![alt text](https://github.com/leonardsadiki/tp-securite-L2Genie/blob/main/capture_question3.PNG)
 ![alt text](https://github.com/leonardsadiki/tp-securite-L2Genie/blob/main/capture_reponse3.PNG)
